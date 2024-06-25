@@ -5,7 +5,7 @@ import {
     inputFecha, 
     inputPaciente, 
     inputSintomas
-} from "./selectores";
+} from "./selectores.js";
 import {dataCita,submitCita} from './funciones.js'
 
 
